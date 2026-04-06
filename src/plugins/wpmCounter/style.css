@@ -1,0 +1,10 @@
+.vc-wpm-counter {
+    font-family: var(--font-display);
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--text-muted);
+    padding: 0 8px;
+    user-select: none;
+    white-space: nowrap;
+    align-self: center;
+}

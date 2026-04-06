@@ -631,7 +631,7 @@ export const Devs = /* #__PURE__*/ Object.freeze({
     },
     Plugman: {
         name: "Plugman",
-        id: 0n,
+        id: 1108135649699180705n,
     },
 } satisfies Record<string, Dev>);
 
